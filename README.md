@@ -2,6 +2,8 @@ Previsao_de_faturamento
 
 Etapas aplicadas
 
+#0. Instalação das bibliotecas
+
 #1. Importando Dados
 
 #2. Juntando os datasets
