@@ -1,1 +1,4 @@
-# Previsao_de_faturamento
+#Previsao_de_faturamento
+
+#Etapas aplicadas
+
